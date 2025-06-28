@@ -1,0 +1,50 @@
+# =============================
+# Flutter & Dart
+# =============================
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# =============================
+# Android
+# =============================
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# =============================
+# iOS & macOS
+# =============================
+*.xcworkspace
+*.xcuserstate
+ios/Pods/
+ios/Runner.xcodeproj/project.xcworkspace/
+macos/Pods/
+
+# =============================
+# Obfuscation & Symbolication
+# =============================
+app.*.map.json
+app.*.symbols
+
+# =============================
+# IDEs & Editors
+# =============================
+.idea/
+.vscode/
+*.iml
+
+# =============================
+# Misc
+# =============================
+*.log
+*.class
+*.pyc
+*.swp
+.DS_Store
